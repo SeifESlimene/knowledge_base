@@ -1,0 +1,13 @@
+## ==Arch Linux Commands==
+
+> `$ loadkeys fr`
+
+> `$ fdisk -l`
+
+> `$ parted -l`
+
+> `$ df -h --total`
+
+> `$ lsblk`
+
+> `$ localectl list-keymaps`
