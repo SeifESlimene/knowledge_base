@@ -1,4 +1,4 @@
-.| Command     | Description |
+| Command     | Description |
 | ----------- | ----------- |
 | `sudo -u postgres psql` | Connect To psql with user postgres |
 | `\x` | Toggle Expanded Mode |
